@@ -1,0 +1,2 @@
+# MAze
+Nový_Bludiště
