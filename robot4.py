@@ -1,5 +1,8 @@
-import tkinter as tk
 import random
+import tkinter as tk
+
+from Bludistě import Bludiste
+from Bludistě import BludisteView
 
 
 class Robot:
