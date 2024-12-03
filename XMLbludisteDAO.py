@@ -1,6 +1,8 @@
 #DAO interface
 from abc import ABC, abstractmethod
 
+from Bludistě import Bludiste
+
 
 class BludisteDAO(ABC):
     @abstractmethod
